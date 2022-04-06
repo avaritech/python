@@ -14,7 +14,6 @@ you want to use any for reference. Most of these are written for hackerrank exer
 
 - permutations.py - given a string and int as input, pritn permutations on separate lines.
 
-
   > "HACK 2"
 
 
@@ -27,8 +26,7 @@ you want to use any for reference. Most of these are written for hackerrank exer
 
 
 - quizFast.py - takes 2 variables as input - with a first date and a last date.  calls hackerrank's API,
-reports every stock open price and high price for the day for all dates in the range (inclusive).
+  reports every stock open price and high price for the day for all dates in the range (inclusive).
 
-
->_firstDate = '1-January-2000'
-_lastDate = '28-December-2013'
+ >_firstDate = '1-January-2000'
+ _lastDate = '28-December-2013'
